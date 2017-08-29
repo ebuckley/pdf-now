@@ -1,0 +1,11 @@
+{
+  "name": "pdf-now",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ersin Buckley",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^0.10.1",
+    "yargs": "^8.0.2"
+  }
+}
